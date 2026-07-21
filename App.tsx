@@ -1,8 +1,8 @@
 import { useState } from 'react'
-import ReceptionApp from './apps/reception'
-import DoctorApp from './apps/doctor'
-import PharmacyApp from './apps/pharmacy'
-import OwnerApp from './apps/owner'
+import ReceptionApp from './reception'
+import DoctorApp from './doctor'
+import PharmacyApp from './pharmacy'
+import OwnerApp from './owner'
 
 // ─── Phase 0 Note ───────────────────────────────────────────────────────────
 // Ye file sirf testing ke liye hai.
